@@ -1,17 +1,17 @@
 {
   "current": {
-    "colors_solid_button_labels": "#ffffff",
+    "colors_solid_button_labels": "#131313",
     "colors_accent_1": "#121212",
-    "gradient_accent_1": "",
+    "gradient_accent_1": "linear-gradient(228deg, rgba(21, 209, 252, 1) 14%, rgba(187, 48, 254, 1) 83%)",
     "colors_accent_2": "#334fb4",
     "gradient_accent_2": "",
-    "colors_text": "#121212",
+    "colors_text": "#f1e4d7",
     "colors_outline_button_labels": "#121212",
-    "colors_background_1": "#ffffff",
-    "gradient_background_1": "",
-    "colors_background_2": "#f3f3f3",
-    "gradient_background_2": "",
-    "type_header_font": "assistant_n4",
+    "colors_background_1": "#131313",
+    "gradient_background_1": "radial-gradient(rgba(27, 26, 26, 1), rgba(27, 26, 26, 1) 100%)",
+    "colors_background_2": "#131313",
+    "gradient_background_2": "radial-gradient(rgba(19, 19, 19, 1) 7%, rgba(38, 38, 38, 1) 94%)",
+    "type_header_font": "asap_n4",
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
     "body_scale": 100,
@@ -21,7 +21,7 @@
     "spacing_grid_vertical": 8,
     "buttons_border_thickness": 1,
     "buttons_border_opacity": 100,
-    "buttons_radius": 0,
+    "buttons_radius": 4,
     "buttons_shadow_opacity": 0,
     "buttons_shadow_horizontal_offset": 0,
     "buttons_shadow_vertical_offset": 4,
@@ -118,6 +118,8 @@
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
     "currency_code_enabled": true,
+    "checkout_header_image": "shopify:\/\/shop_images\/9c683bbef7a6713b3184e8ae3a00ff47.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/tgcapdsnv1big.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -186,7 +188,7 @@
           "footer-2"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "background-2",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
