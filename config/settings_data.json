@@ -117,6 +117,7 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
+    "favicon": "shopify:\/\/shop_images\/image.png",
     "currency_code_enabled": true,
     "checkout_header_image": "shopify:\/\/shop_images\/9c683bbef7a6713b3184e8ae3a00ff47.png",
     "checkout_logo_image": "shopify:\/\/shop_images\/tgcapdsnv1big.png",
